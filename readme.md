@@ -1,7 +1,7 @@
 
 <div>
   <h1 align="center">Hello, welcome here , I am <a href="https://www.linkedin.com/in/rangel-gomes-61681a43/"><i>Rangel Gomes</i></a> 😃️</h1>
-  <p align="center">I am a software developer</p>
+  <p align="center">Software developer</p>
   <br>
   <!-- <p align="center"> 😉️</h2> -->
 </div>
